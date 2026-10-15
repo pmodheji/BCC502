@@ -1,4 +1,4 @@
-"""Part 1, Module 3: The first application you run from VS Code (app.py)."""
+"""Part 1, Module 1: The first application you run from VS Code (app.py)."""
 
 
 def main():
