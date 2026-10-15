@@ -1,4 +1,4 @@
-"""Part 1, Module 2: Calculate a student's GPA."""
+"""Part 1, Module 3: Calculate a student's GPA."""
 
 
 def calculate_gpa(grades):
