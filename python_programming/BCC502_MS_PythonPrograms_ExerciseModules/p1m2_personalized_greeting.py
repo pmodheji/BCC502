@@ -1,4 +1,4 @@
-"""Part 1, Module 1: Create a personalized greeting."""
+"""Part 1, Module 2: Create a personalized greeting."""
 
 
 def build_greeting(raw_name):
